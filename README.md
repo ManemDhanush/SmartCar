@@ -15,3 +15,5 @@ The main components used are
 4) NodeMCU for connection of all components.
 
 5) ThingSpeak account for connection of components to mobile app.
+
+Note:- Don't forget to install WIFI Drivers in NodeMCU
